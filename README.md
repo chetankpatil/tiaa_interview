@@ -20,7 +20,7 @@ a)          Sonar lint: https://github.com/chetankpatil/tiaa_interview/blob/mast
 
 b)          Final Output: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/final_output.png
 
-c)          Junit Coverage: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/junits_report.png
+c)          Junit Coverage: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/junit_report.png
 
 
 
