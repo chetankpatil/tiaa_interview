@@ -16,11 +16,11 @@ Section 2:
 
 Section 3
 
-a)          Sonar lint:
+a)          Sonar lint: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/sonarlint_report.png
 
-b)          Final Output:
+b)          Final Output: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/final_output.png
 
-c)          Junit Coverage:
+c)          Junit Coverage: https://github.com/chetankpatil/tiaa_interview/blob/master/images_snapshot/junits_report.png
 
 
 
